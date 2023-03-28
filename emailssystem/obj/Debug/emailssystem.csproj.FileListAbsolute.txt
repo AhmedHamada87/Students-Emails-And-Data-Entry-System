@@ -1,0 +1,72 @@
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\emailssystem.exe.config
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\emailssystem.exe
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\emailssystem.pdb
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\System.Buffers.dll
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\System.Memory.dll
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\System.Buffers.xml
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\System.Memory.xml
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\obj\Debug\emailssystem.csproj.AssemblyReference.cache
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\obj\Debug\emailssystem.editstud.resources
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\obj\Debug\emailssystem.Form1.resources
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\obj\Debug\emailssystem.indinput.resources
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\obj\Debug\emailssystem.inputtype.resources
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\obj\Debug\emailssystem.Properties.Resources.resources
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\obj\Debug\emailssystem.viewstd.resources
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\obj\Debug\emailssystem.csproj.GenerateResource.cache
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\obj\Debug\emailssystem.csproj.CoreCompileInputs.cache
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\obj\Debug\emailssystem.csproj.CopyComplete
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\obj\Debug\emailssystem.exe
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\obj\Debug\emailssystem.pdb
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\obj\Debug\emailssystem.bulkadd.resources
+C:\Users\AHMED HAMADA\source\repos\emailssystem\emailssystem\obj\Debug\emailssystem.selectexp.resources
+F:\gits\emailssystem\emailssystem\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+F:\gits\emailssystem\emailssystem\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+F:\gits\emailssystem\emailssystem\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+F:\gits\emailssystem\emailssystem\bin\Debug\emailssystem.exe.config
+F:\gits\emailssystem\emailssystem\bin\Debug\emailssystem.exe
+F:\gits\emailssystem\emailssystem\bin\Debug\emailssystem.pdb
+F:\gits\emailssystem\emailssystem\bin\Debug\Microsoft.Data.Sqlite.dll
+F:\gits\emailssystem\emailssystem\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\gits\emailssystem\emailssystem\bin\Debug\SQLitePCLRaw.core.dll
+F:\gits\emailssystem\emailssystem\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+F:\gits\emailssystem\emailssystem\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\gits\emailssystem\emailssystem\bin\Debug\System.Buffers.dll
+F:\gits\emailssystem\emailssystem\bin\Debug\System.Memory.dll
+F:\gits\emailssystem\emailssystem\bin\Debug\System.Numerics.Vectors.dll
+F:\gits\emailssystem\emailssystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\gits\emailssystem\emailssystem\bin\Debug\Tulpep.NotificationWindow.dll
+F:\gits\emailssystem\emailssystem\bin\Debug\Microsoft.Data.Sqlite.xml
+F:\gits\emailssystem\emailssystem\bin\Debug\System.Buffers.xml
+F:\gits\emailssystem\emailssystem\bin\Debug\System.Memory.xml
+F:\gits\emailssystem\emailssystem\bin\Debug\System.Numerics.Vectors.xml
+F:\gits\emailssystem\emailssystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\gits\emailssystem\emailssystem\obj\Debug\emailssystem.csproj.AssemblyReference.cache
+F:\gits\emailssystem\emailssystem\obj\Debug\emailssystem.csproj.SuggestedBindingRedirects.cache
+F:\gits\emailssystem\emailssystem\obj\Debug\emailssystem.bulkadd.resources
+F:\gits\emailssystem\emailssystem\obj\Debug\emailssystem.editstud.resources
+F:\gits\emailssystem\emailssystem\obj\Debug\emailssystem.Form1.resources
+F:\gits\emailssystem\emailssystem\obj\Debug\emailssystem.indinput.resources
+F:\gits\emailssystem\emailssystem\obj\Debug\emailssystem.info.resources
+F:\gits\emailssystem\emailssystem\obj\Debug\emailssystem.inputtype.resources
+F:\gits\emailssystem\emailssystem\obj\Debug\emailssystem.Properties.Resources.resources
+F:\gits\emailssystem\emailssystem\obj\Debug\emailssystem.selectexp.resources
+F:\gits\emailssystem\emailssystem\obj\Debug\emailssystem.viewstd.resources
+F:\gits\emailssystem\emailssystem\obj\Debug\emailssystem.csproj.GenerateResource.cache
+F:\gits\emailssystem\emailssystem\obj\Debug\emailssystem.csproj.CoreCompileInputs.cache
+F:\gits\emailssystem\emailssystem\obj\Debug\emailssystem.csproj.CopyComplete
+F:\gits\emailssystem\emailssystem\obj\Debug\emailssystem.exe
+F:\gits\emailssystem\emailssystem\obj\Debug\emailssystem.pdb
